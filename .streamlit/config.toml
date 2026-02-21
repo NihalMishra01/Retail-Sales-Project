@@ -1,0 +1,11 @@
+[theme]
+# A modern, deep-space dark theme with a vibrant primary accent
+primaryColor = "#6366f1" # Indigo accent
+backgroundColor = "#0f172a" # Slate 900
+secondaryBackgroundColor = "#1e293b" # Slate 800
+textColor = "#f8fafc" # Slate 50
+font = "sans serif"
+
+[layout]
+# Forces the app to always use the wide layout
+max_content_width = "100%"
